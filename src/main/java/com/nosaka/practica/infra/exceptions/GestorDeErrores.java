@@ -1,4 +1,4 @@
-package com.nosaka.practica.infra;
+package com.nosaka.practica.infra.exceptions;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.ResponseEntity;
